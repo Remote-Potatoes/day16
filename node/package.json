@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "superheroes": "^3.0.0"
+  }
+}
